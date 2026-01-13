@@ -3,6 +3,9 @@
 *{
     box-sizing: border-box;
 }
-
-a
-
+body {
+    font-family: 'Press Start 2P', cursive;
+    margin: 0;
+    padding: 0;
+    background-color: #f0f0f0;
+}
